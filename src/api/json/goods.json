@@ -1,0 +1,44 @@
+[
+    {
+        "img":"img/good1.jpg",
+        "title":"中国近代思想与学术的系谱",
+        "author":"王汎森 著; 黄韬",
+        "price":"55.00",
+        "goodId":"2020001"
+    },
+    {
+        "img":"img/good2.jpg",
+        "title":"T.S.艾略特传：不完美的一生",
+        "author":"[英]林德尔·戈登 著",
+        "price":"40.00",
+        "goodId":"2020002"
+    },
+    {
+        "img":"img/good3.jpg",
+        "title":"看海的人",
+        "author":"[日]小林泰三 著",
+        "price":"12.76",
+        "goodId":"2020003"
+    },
+    {
+        "img":"img/good4.jpg",
+        "title":"日德兰1916：胜败攸关12小时",
+        "author":"[英]安格斯·康斯塔",
+        "price":"44.00",
+        "goodId":"2020004"
+    },
+    {
+        "img":"img/good5.jpg",
+        "title":"浮出历史地表：现代妇女文学研究",
+        "author":"孟悦、戴锦华 著",
+        "price":"29.00",
+        "goodId":"2020005"
+    },
+    {
+        "img":"img/good6.jpg",
+        "title":"萨勒姆的女巫",
+        "author":"阿瑟·米勒 著;梅",
+        "price":"170.00",
+        "goodId":"2020006"
+    }
+]
